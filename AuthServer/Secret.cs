@@ -2,7 +2,7 @@
 {
     public class Secret
     {
-        public const string JwtSecretKey = "secretnotsosecret";
+        public static string JwtSigningKey { get; } = "secretnotsosecret";
 
     }
 }
