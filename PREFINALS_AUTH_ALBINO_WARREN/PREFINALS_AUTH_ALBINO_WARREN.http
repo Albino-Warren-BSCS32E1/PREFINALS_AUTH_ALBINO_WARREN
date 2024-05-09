@@ -1,6 +1,0 @@
-@PREFINALS_AUTH_ALBINO_WARREN_HostAddress = http://localhost:5149
-
-GET {{PREFINALS_AUTH_ALBINO_WARREN_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
